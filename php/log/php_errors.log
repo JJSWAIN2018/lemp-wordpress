@@ -1,0 +1,23 @@
+[31-May-2018 07:15:57 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 07:15:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:16:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in - on line 10
+[31-May-2018 07:28:58 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 07:54:12 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 08:05:09 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 08:44:32 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 08:55:16 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 08:57:58 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 10:11:09 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 10:56:38 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 11:08:05 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 11:45:52 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 13:38:20 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
+[31-May-2018 14:09:55 UTC] PHP Notice:  Undefined offset: 1 in - on line 6
